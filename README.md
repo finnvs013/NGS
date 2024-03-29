@@ -4,7 +4,6 @@ Contain all NGS workflows in the README
 ### Short introduction to galaxy
 
 https://usegalaxy.eu/u/finnvs/w/workflow-constructed-from-history-les-1
-Galaxy-Workflow-Workflow_constructed_from_history__Les_1___Next_Analysis__.ga
 ![image](https://github.com/finnvs013/NGS/assets/163141728/7c34e07e-d2b3-4c76-a1cf-8b4aa08efdbe)
 
 ## Workflow lesson 2:
